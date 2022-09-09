@@ -1,2 +1,2 @@
 # KetsBras
-Unfinished package of functions for quantum objects manipulation
+Unfinished package of functions for quantum object manipulation
